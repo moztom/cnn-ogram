@@ -1,3 +1,3 @@
 # cnn-ogram
 
-A convolutional neural network visualiser (when i get around to it)
+A convolutional neural network visualiser (when I get around to it)
